@@ -17,7 +17,7 @@
  * under the License.
  */
 import { t, validateNonEmpty } from '@superset-ui/core';
-import { D3_FORMAT_OPTIONS } from '@superset-ui/chart-controls';
+import { D3_FORMAT_OPTIONS } from '@arthanasti/chart-controls';
 const noopControl = {
   name: 'noop',
   config: {
