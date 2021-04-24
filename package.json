@@ -1,6 +1,6 @@
 {
   "name": "@arthanasti/plugin-chart-echarts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Superset Chart - Echarts",
   "sideEffects": false,
   "main": "lib/index.js",
